@@ -24,3 +24,6 @@ See `requirements.txt`.
 - `review_score`: Review rating  
 - `order_time`: Date-time of order  
 - `order_date`: Order date  
+
+## Output
+See `Output Folder`
